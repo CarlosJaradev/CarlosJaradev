@@ -54,10 +54,10 @@ I am an undergraduate Computer science and Engineering student at National Unive
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-ronaldo-sanchez-pichardo-803a1a317/](https://www.linkedin.com/in/carlos-daniel-jara-737b41259/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-daniel-jara-737b41259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/diegodev018](https://x.com/CarlosD91911934" target="_blank">
+  <a href="https://x.com/CarlosD91911934" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.twitch.tv/dxn24090178" target="_blank">
