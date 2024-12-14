@@ -1,4 +1,4 @@
-# Hi there 👋, Carlos here. 
+# Hi there I'm Carlos Jara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 <!--
@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I am an undergraduate Computer science and Engineering student at National University Pedro Ruiz Gallo. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Data Cience, and digital marketing**
@@ -54,16 +54,16 @@ I am an undergraduate Computer science and Engineering student at National Unive
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-ronaldo-sanchez-pichardo-803a1a317/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-ronaldo-sanchez-pichardo-803a1a317/](https://www.linkedin.com/in/carlos-daniel-jara-737b41259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/diegodev018" target="_blank">
+  <a href="https://x.com/diegodev018](https://x.com/CarlosD91911934" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.twitch.tv/diegodev18" target="_blank">
+  <a href="https://www.twitch.tv/dxn24090178" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://www.youtube.com/@diegodev01" target="_blank">
+  <a href="https://www.youtube.com/@carlosdanieljarahuaman7800" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
