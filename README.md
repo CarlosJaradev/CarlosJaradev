@@ -10,10 +10,14 @@
 ***About me***
 
 I am an undergraduate Computer science and Engineering student at National University Pedro Ruiz Gallo. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Data Cience, and digital marketing**
+* **I am interested in backend developing, Data Cience, and digital Management**
 - 🌱 I’m currently learning ...
   - Java
-  - React js
+  - Spring
+  - SQL Server
+  - API RESTFULL
+  - GOOD PRACTICES
+  - DATA ENGINEER METHODOLOGY
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 to play music, and 🌴 explore nature outdoors.
